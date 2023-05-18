@@ -1,2 +1,13 @@
-# New-repository
-This repository will house any new projects. 
+# About me
+
+## Skills
+
+### Professional
+
+### Other
+
+## Experience
+
+### Professional
+
+### Other
